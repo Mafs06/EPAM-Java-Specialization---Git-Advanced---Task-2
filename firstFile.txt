@@ -2,9 +2,9 @@ Line 1 from firstFile
 Line 2 from firstFile
 Line 3 from firstFile
 Line 4 from firstFile
-Line 5 from firstFile
-Line 6 from firstFile
+Line 5 from firstFile modified last
+Line 6 from firstFile modified last
 Line 7 from firstFile
 Line 8 from firstFile
-Line 9 from firstFile
-	Line 10 from firstFile
+Line 9 from firstFile modified first
+Line 10 from firstFile modified first
