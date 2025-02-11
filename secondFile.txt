@@ -1,5 +1,5 @@
-Line 1 from secondFile
-Line 2 from secondFile
+Line 1 from secondFile modified
+Line 2 from secondFile modified
 Line 3 from secondFile
 Line 4 from secondFile
 Line 5 from secondFile
