@@ -1,0 +1,24 @@
+From d2627f0e9c736d34688cb800149dafe3e482505e Mon Sep 17 00:00:00 2001
+From: Maria Cabrales <mafecaja@gmail.com>
+Date: Tue, 11 Feb 2025 22:29:54 -0500
+Subject: [PATCH] modified last two lines of firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 22d32cd..ba2fa3a 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ Line 5 from firstFile
+ Line 6 from firstFile
+ Line 7 from firstFile
+ Line 8 from firstFile
+-Line 9 from firstFile
+-	Line 10 from firstFile
++Line 9 from firstFile modified first
++Line 10 from firstFile modified first
+-- 
+2.45.2.windows.1
+

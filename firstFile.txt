@@ -1,10 +1,10 @@
 Line 1 from firstFile changed from folder 2
 Line 2 from firstFile changed from folder 2
-Line 3 from firstFile
-Line 4 from firstFile
+Line 3 from firstFile changed from folder 1
+Line 4 from firstFile changed from folder 1
 Line 5 from firstFile modified last
 Line 6 from firstFile modified last
 Line 7 from firstFile
-Line 8 from firstFile
+Line 8 from firstFile changed later from folder 1
 Line 9 from firstFile modified first
 Line 10 from firstFile modified first
